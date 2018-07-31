@@ -6,6 +6,6 @@ This page is desgined to share the course material, interesting videos, websites
 
 Vinit Kumar
 
--- Bachelor of Library and Information Science
--- Master of Library and Information Science
--- PhD and MPhil in Library and Information Science
+1. [Bachelor of Library and Information Science](https://dlisbbau.github.io/blis/)
+2. [Master of Library and Information Science](https://dlisbbau.github.io/blis/)
+3. PhD and MPhil in Library and Information Science
